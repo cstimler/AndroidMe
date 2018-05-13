@@ -96,3 +96,4 @@ The **Diff** link will take you to a Github diff as seen below:
 All of the code that was added in the solution is in green, and the removed code (which will usually be the TODO comments) is in red. 
 ## Report Issues
 Notice any issues with a repository? Please file a github issue in the repository.
+"Working through Udacity's AndroidMe Fragment Activity Lessons" 
