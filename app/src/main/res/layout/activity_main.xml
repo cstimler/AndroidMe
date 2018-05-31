@@ -19,6 +19,7 @@
     android:layout_height="match_parent" />
 
 <!-- TODO (1) Create a new two-pane activity_main layout for tablets (sw600dp)
+
 This means creating a new layout folder for tablet screens and another activity_main.xml -->
 
 <!-- TODO (2) Build the layout to display the MasterListFragment and all BodyPartFragments -->
